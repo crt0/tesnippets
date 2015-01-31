@@ -8,5 +8,6 @@ This set of snippets expands to breweries represented at the Brewers of Indiana 
 
     Sun King Brewing Company == bb + sun + k == bbsunk
     Triton Brewing Company   == bb + tri + b == bbtrib
+    MashCraft Brewing        == bb + mas + c == bbmasc
 
 The goal is predictable abbreviations so it's easy to guess the abbreviation when you know the full brewery name. This system should speed up taking notes on beers you're tasting at the festival.
