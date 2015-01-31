@@ -25,7 +25,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:18:48Z</date>
 			<key>plainText</key>
-			<string>18th Street</string>
+			<string>18th Street </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -47,7 +47,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:18:53Z</date>
 			<key>plainText</key>
-			<string>450 North</string>
+			<string>450 North </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -69,7 +69,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:21:34Z</date>
 			<key>plainText</key>
-			<string>Back Road</string>
+			<string>Back Road </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -91,7 +91,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:21:01Z</date>
 			<key>plainText</key>
-			<string>Bare Hands</string>
+			<string>Bare Hands </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -113,7 +113,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:21:11Z</date>
 			<key>plainText</key>
-			<string>Barley Island</string>
+			<string>Barley Island </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -135,7 +135,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:21:17Z</date>
 			<key>plainText</key>
-			<string>Basket Case</string>
+			<string>Basket Case </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -157,7 +157,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:21:40Z</date>
 			<key>plainText</key>
-			<string>Black Acre</string>
+			<string>Black Acre </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -179,7 +179,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:21:59Z</date>
 			<key>plainText</key>
-			<string>Black Swan</string>
+			<string>Black Swan </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -201,7 +201,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:22:03Z</date>
 			<key>plainText</key>
-			<string>Burn 'Em</string>
+			<string>Burn 'Em </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -223,7 +223,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:21:44Z</date>
 			<key>plainText</key>
-			<string>Bloomington Brewing Company</string>
+			<string>Bloomington Brewing Company </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -245,7 +245,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:21:52Z</date>
 			<key>plainText</key>
-			<string>Books &amp; Brews</string>
+			<string>Books &amp; Brews </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -267,7 +267,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:22:40Z</date>
 			<key>plainText</key>
-			<string>Broad Ripple Brewpub</string>
+			<string>Broad Ripple Brewpub </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -289,7 +289,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:22:44Z</date>
 			<key>plainText</key>
-			<string>Bulldog</string>
+			<string>Bulldog </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -311,7 +311,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:22:13Z</date>
 			<key>plainText</key>
-			<string>Carson's</string>
+			<string>Carson's </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -333,7 +333,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:22:18Z</date>
 			<key>plainText</key>
-			<string>Chapman's</string>
+			<string>Chapman's </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -355,7 +355,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:23:08Z</date>
 			<key>plainText</key>
-			<string>Chilly Water</string>
+			<string>Chilly Water </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -377,7 +377,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:23:18Z</date>
 			<key>plainText</key>
-			<string>Crown</string>
+			<string>Crown </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -399,7 +399,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:23:27Z</date>
 			<key>plainText</key>
-			<string>Cutters</string>
+			<string>Cutters </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -421,7 +421,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:23:34Z</date>
 			<key>plainText</key>
-			<string>Danny Boy</string>
+			<string>Danny Boy </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -443,7 +443,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:23:42Z</date>
 			<key>plainText</key>
-			<string>Daredevil</string>
+			<string>Daredevil </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -465,7 +465,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:23:51Z</date>
 			<key>plainText</key>
-			<string>Evil Czech</string>
+			<string>Evil Czech </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -487,7 +487,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:24:07Z</date>
 			<key>plainText</key>
-			<string>Figure Eight</string>
+			<string>Figure Eight </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -509,7 +509,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:24:22Z</date>
 			<key>plainText</key>
-			<string>Flat12</string>
+			<string>Flat12 </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -531,7 +531,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:24:31Z</date>
 			<key>plainText</key>
-			<string>Fountain Square</string>
+			<string>Fountain Square </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -553,7 +553,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:24:36Z</date>
 			<key>plainText</key>
-			<string>Four Fathers</string>
+			<string>Four Fathers </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -575,7 +575,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:24:43Z</date>
 			<key>plainText</key>
-			<string>Function</string>
+			<string>Function </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -597,7 +597,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:24:59Z</date>
 			<key>plainText</key>
-			<string>Grand Junction</string>
+			<string>Grand Junction </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -619,7 +619,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:25:08Z</date>
 			<key>plainText</key>
-			<string>Great Crescent</string>
+			<string>Great Crescent </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -641,7 +641,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:25:16Z</date>
 			<key>plainText</key>
-			<string>Half Moon</string>
+			<string>Half Moon </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -663,7 +663,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:25:31Z</date>
 			<key>plainText</key>
-			<string>Iechyd Da</string>
+			<string>Iechyd Da </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -685,7 +685,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:25:36Z</date>
 			<key>plainText</key>
-			<string>Indiana City</string>
+			<string>Indiana City </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -707,7 +707,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:25:42Z</date>
 			<key>plainText</key>
-			<string>Ironwood</string>
+			<string>Ironwood </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -729,7 +729,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:25:49Z</date>
 			<key>plainText</key>
-			<string>Lafayette</string>
+			<string>Lafayette </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -751,7 +751,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:25:56Z</date>
 			<key>plainText</key>
-			<string>Mad Anthony</string>
+			<string>Mad Anthony </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -773,7 +773,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:26:12Z</date>
 			<key>plainText</key>
-			<string>MashCraft</string>
+			<string>MashCraft </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -795,7 +795,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:26:23Z</date>
 			<key>plainText</key>
-			<string>New Albanian</string>
+			<string>New Albanian </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -817,7 +817,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:26:31Z</date>
 			<key>plainText</key>
-			<string>New Boswell</string>
+			<string>New Boswell </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -839,7 +839,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:26:39Z</date>
 			<key>plainText</key>
-			<string>Noble Order</string>
+			<string>Noble Order </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -861,7 +861,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:26:52Z</date>
 			<key>plainText</key>
-			<string>Norris</string>
+			<string>Norris </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -883,7 +883,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:27:05Z</date>
 			<key>plainText</key>
-			<string>Oaken Barrel</string>
+			<string>Oaken Barrel </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -905,7 +905,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:27:15Z</date>
 			<key>plainText</key>
-			<string>Outliers</string>
+			<string>Outliers </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -927,7 +927,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:27:22Z</date>
 			<key>plainText</key>
-			<string>People's</string>
+			<string>People's </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -949,7 +949,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:27:33Z</date>
 			<key>plainText</key>
-			<string>Planetary</string>
+			<string>Planetary </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -971,7 +971,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:27:39Z</date>
 			<key>plainText</key>
-			<string>Power House</string>
+			<string>Power House </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -993,7 +993,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:27:53Z</date>
 			<key>plainText</key>
-			<string>Quaff ON!</string>
+			<string>Quaff ON! </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1015,7 +1015,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:28:05Z</date>
 			<key>plainText</key>
-			<string>Ram</string>
+			<string>Ram </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1037,7 +1037,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:28:29Z</date>
 			<key>plainText</key>
-			<string>Rock Bottom Downtown Indianapolis</string>
+			<string>Rock Bottom Downtown Indianapolis </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1059,7 +1059,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:28:41Z</date>
 			<key>plainText</key>
-			<string>Rock Bottom College Park</string>
+			<string>Rock Bottom College Park </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1081,7 +1081,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:29:01Z</date>
 			<key>plainText</key>
-			<string>Scarlet Lane</string>
+			<string>Scarlet Lane </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1103,7 +1103,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:29:08Z</date>
 			<key>plainText</key>
-			<string>Shoreline</string>
+			<string>Shoreline </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1125,7 +1125,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:29:18Z</date>
 			<key>plainText</key>
-			<string>Summit City</string>
+			<string>Summit City </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1147,7 +1147,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:29:25Z</date>
 			<key>plainText</key>
-			<string>Sun King</string>
+			<string>Sun King </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1169,7 +1169,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:29:34Z</date>
 			<key>plainText</key>
-			<string>Taxman</string>
+			<string>Taxman </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1191,7 +1191,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:29:45Z</date>
 			<key>plainText</key>
-			<string>Devil's Trumpet</string>
+			<string>Devil's Trumpet </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1213,7 +1213,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:29:59Z</date>
 			<key>plainText</key>
-			<string>Thr3e Wise Men</string>
+			<string>Thr3e Wise Men </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1235,7 +1235,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:30:09Z</date>
 			<key>plainText</key>
-			<string>Three Floyds</string>
+			<string>Three Floyds </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1257,7 +1257,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:30:14Z</date>
 			<key>plainText</key>
-			<string>Three Pints</string>
+			<string>Three Pints </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1279,7 +1279,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:30:20Z</date>
 			<key>plainText</key>
-			<string>Tin Man</string>
+			<string>Tin Man </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1301,7 +1301,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:30:26Z</date>
 			<key>plainText</key>
-			<string>Tow Yard</string>
+			<string>Tow Yard </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1323,7 +1323,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:30:36Z</date>
 			<key>plainText</key>
-			<string>Triton</string>
+			<string>Triton </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1345,7 +1345,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:30:49Z</date>
 			<key>plainText</key>
-			<string>Turoni's</string>
+			<string>Turoni's </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1367,7 +1367,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:30:55Z</date>
 			<key>plainText</key>
-			<string>TwoDEEP</string>
+			<string>TwoDEEP </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1389,7 +1389,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:31:01Z</date>
 			<key>plainText</key>
-			<string>Union</string>
+			<string>Union </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1411,7 +1411,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:31:07Z</date>
 			<key>plainText</key>
-			<string>Upland</string>
+			<string>Upland </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1433,7 +1433,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:31:13Z</date>
 			<key>plainText</key>
-			<string>Wabash</string>
+			<string>Wabash </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1455,7 +1455,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:31:25Z</date>
 			<key>plainText</key>
-			<string>Wooden Bear</string>
+			<string>Wooden Bear </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1477,7 +1477,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-31T14:31:35Z</date>
 			<key>plainText</key>
-			<string>ZwanzigZ</string>
+			<string>ZwanzigZ </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
